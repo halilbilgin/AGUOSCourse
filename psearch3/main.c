@@ -1,29 +1,3 @@
-/*
- * psearch1c.c
- *
- *  Created on: Oct 14, 2017
- *      Author: halilbilgin
- */
-
-
-/*
- * psearch3.c
- *
- *  Created on: Oct 14, 2017
- *      Author: halilbilgin
- */
-
-
-/*
- ============================================================================
- Name        : OS.c
- Author      : Halil BIlgin
- Version     :
- Copyright   : Project is under MIT Licence
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
