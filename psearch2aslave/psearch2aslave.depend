@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1508147314 source:/home/halilbilgin/eclipse-workspace/common.c
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1508145753 /home/halilbilgin/eclipse-workspace/common.h
+
+1508684957 source:/home/halilbilgin/eclipse-workspace/psearch2aslave/main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<linux/mman.h>
+	"../common.h"
+
