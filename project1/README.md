@@ -1,4 +1,4 @@
-This repository contains solutions of projects given in Undergraduate OS course in AGU.
+# Processes and Threads, IPC
 
 
 **Project description:**
